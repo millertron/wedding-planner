@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/millertron/wedding-planner/issues"
   },
-  "homepage": "https://github.com/millertron/wedding-planner#readme"
+  "homepage": "https://github.com/millertron/wedding-planner#readme",
+  "dependencies": {
+    "mithril": "^2.0.4"
+  }
 }
