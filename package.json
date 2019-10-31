@@ -19,5 +19,9 @@
   "homepage": "https://github.com/millertron/wedding-planner#readme",
   "dependencies": {
     "mithril": "^2.0.4"
+  },
+  "devDependencies": {
+    "webpack": "^4.41.2",
+    "webpack-cli": "^3.3.10"
   }
 }
