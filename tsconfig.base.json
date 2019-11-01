@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "module": "system",
+    "sourceMap": true,
+    "outFile": "app.js",
+    "outDir": "/bin",
+    "strict": true,
+    "watch": true
+  },
+  "files": ["src/index.ts"]
+}
